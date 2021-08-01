@@ -1,10 +1,10 @@
 const config = {
   cognito: {
-    REGION: process.env.REGION,
-    USER_POOL_ID: process.env.USER_POOL_ID,
-    POOL_REGION: process.env.POOL_REGION,
-    APP_CLIENT_ID: process.env.APP_CLIENT_ID,
-    IDENTITY_POOL_ID: process.env.IDENTITY_POOL_ID,
+    REGION: process.env.REACT_APP_REGION,
+    USER_POOL_ID: process.env.REACT_APP_USER_POOL_ID,
+    POOL_REGION: process.env.REACT_APP_POOL_REGION,
+    APP_CLIENT_ID: process.env.REACT_APP_APP_CLIENT_ID,
+    IDENTITY_POOL_ID: process.env.REACT_APP_IDENTITY_POOL_ID,
   },
   // s3: {
   //   REGION: "ap-southeast-1",

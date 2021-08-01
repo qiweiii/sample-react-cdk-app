@@ -36,5 +36,6 @@ cdk deploy
 - [deploying-a-static-website-with-aws-amplify-and-cdk](https://aws.amazon.com/blogs/mobile/deploying-a-static-website-with-aws-amplify-and-cdk/)
 - [cognito-cdk-amplify](https://github.com/drewword/https://github.com/drewword/cognito-cdk-amplify)
 - [amazon-cognito-example-for-external-idp](https://github.com/aws-samples/amazon-cognito-example-for-external-idp)
-- [amplify-auth-with-existing-resource](https://docs.amplify.aws/lib/auth/start/q/platform/js#re-use-existing-authentication-resource)
-- [amplify-local-setup](https://docs.amplify.aws/cli/start/install#option-2-follow-the-instructions)
+- [Amplify auth with existingresource](https://docs.amplify.aws/lib/auth/start/q/platform/js#re-use-existing-authentication-resource)
+- [Amplify local setup](https://docs.amplify.aws/cli/start/install#option-2-follow-the-instructions)
+- [Customize Amplify auth react component](https://docs.amplify.aws/ui/auth/authenticator/q/framework/react#custom-form-fields)
