@@ -1,1 +1,0 @@
-# sample-react-cdk-app
