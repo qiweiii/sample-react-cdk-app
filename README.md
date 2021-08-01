@@ -15,6 +15,7 @@ cdk deploy
 ```
 
 
-## References
+## Useful links
 
 - [deploying-a-static-website-with-aws-amplify-and-cdk](https://aws.amazon.com/blogs/mobile/deploying-a-static-website-with-aws-amplify-and-cdk/)
+- [react bootstrap](https://react-bootstrap.github.io/components/alerts/)

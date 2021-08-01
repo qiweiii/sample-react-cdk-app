@@ -3,7 +3,7 @@ frontend:
   phases:
     preBuild:
       commands:
-        - npm ci
+        - rm -rf node_modules && yarn install --frozen-lockfile
     build:
       commands:
         - yarn build
